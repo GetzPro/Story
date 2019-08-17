@@ -1,7 +1,1 @@
-It was the best of times, it was the worst of times.
-
-
-TERMINAL
-git status // shows what files are committed to staging 
-
-git add + filename 
+It was the best of space, it was the worst of space.
